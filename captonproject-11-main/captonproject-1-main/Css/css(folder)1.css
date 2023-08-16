@@ -1,0 +1,295 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+.a{
+	height:400px;
+	width:1520px;
+	background-color: black;
+}
+.a{
+	height:300px;
+	width:1520px;
+}
+.img{
+	height:300px;
+	width:1520px;
+}
+.img1{
+	height:300px;
+	width:700px;
+	margin-left: 300px;
+}
+.sec{
+	height:300px;
+	width:1520px;
+	background-color: #C41E3A ;
+}
+.thi{
+	height:200px;
+	width:1520px;
+	background-color: black;
+}
+.v1{
+	height:300px;
+	width:400px;
+	float:left;
+	padding: 10px;
+	padding-top: 50px;
+	color: white;
+	padding-left: 85px;
+}
+.num{
+	font-size: 80px;
+	color: white;
+}
+.all{
+	font-size: 13px;
+	color: white;
+}
+.v2{
+	height:300px;
+	width:400px;
+	float:left;
+}
+.t1{
+	height:200px;
+	width:500px;
+	float: left;
+	color: white;
+}
+.t2{
+	height:200px;
+	width:500px;
+	float: right;
+	color: white;
+
+}
+.le{
+	font-size: 90px;
+	color: white;
+
+}
+.lp{
+	font-size: 90px;
+	color: white;
+  padding-left: 200px;
+  padding-top: 10px;
+}
+.m{
+	height:200px;
+	width:100%;
+	background-color: black;
+
+}
+.inte{
+	color: white;
+	margin-left: 90px;
+	padding-top: 30px;
+}
+.cre{
+	color:white;
+	padding-top: 30px;
+}
+.n{
+	height:100px;
+	width:700px;
+	color: white;
+   float:left;
+   margin-left: 90px;
+}
+
+.l{
+ 
+  height:100px;
+  width:700px;
+  color:white;
+  float:left;
+  padding-bottom: 20px;
+
+}
+.laptop{
+	height:300px;
+	width:1520px;
+}
+.e{
+	
+	height:400px;
+	width:1520px;
+	background-image: url('../images/woodlap.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.he{
+	color: white;
+	padding-left: 140px;
+	padding-top: 100px;
+}
+.follow{
+	background-color: #C41E3A ;
+	height:200px;
+	width:1520px;
+}
+.f{
+	color:white;
+	padding-top:10px;
+}
+button{
+	height:3px;
+	width:10px;
+	background-color: white;
+}
+.an{
+
+	height:400px;
+	width:300px;
+	margin-left: 300px;
+	
+}
+.bh{
+	background-image: url('../images/blackimg.jpg');
+    background-repeat: no-repeat;
+	height:400px;
+	width:1520px;
+}
+.k1{
+	height:200px;
+	width:700px;
+	float:left;
+
+}
+.k2{
+	height:200px;
+	width:700px;
+	float:left;
+	padding-left: 50px;
+	color:white;
+	margin:30px;
+}
+.k3{
+font-size: 50px;
+color:#C41E3A ;
+}
+.abc{
+	height:50px;
+	width:1520px;
+	background-color: black;
+}
+
+.cba{
+	height:600px;
+	width:1520px;
+	background-color:  #C41E3A ;
+
+}
+.cb{
+	  height:600px;
+	  width:700px;
+    float:left;
+   
+}
+.ba{
+	  height:600px;
+	  width:700px;
+	  float:left;
+	 
+
+}
+
+.def{
+	height:200px;
+	width:1520px;
+	background-color: black;
+}
+.de{
+	height:150px;
+	width:1520px;
+
+}
+.ef{
+	height:50px;
+	width:1520px;
+
+}
+.click{
+	color:white;
+	height: 10px;
+	width:90px;
+}
+
+progress{
+	background-color:white;
+}
+i{
+ font-size: 30px;
+
+}
+u{
+	color:skyblue;
+}
+pre{
+	color: white;
+}
+.or{
+	color: white;
+	padding-top:50px;
+	padding-left: 100px;
+}
+.tab{
+	color: white;
+	padding-left: 80px;
+	width:400px;
+  height:50px;
+}
+.tad{
+	color: white;
+	padding-left: 80px;
+
+}
+.fo{
+	padding-left: 80px;
+}
+.text{
+	height:100px;
+	width:500px;
+
+}
+.sat{
+	color:white;
+	background-color: black;
+}
+.amma{
+	color: white;
+	padding-top: 50px;
+}
+.bab{
+	color:white;
+}
+.bold{
+	color: white;
+	font-size: 30px;
+	padding-left: 130px;
+}
+.but{
+	height: 10px;
+	width:100px;
+	background-color: white;
+	margin-left: 720px;
+	margin-top: 25px;
+}
+.sub{
+     background-color:  #C41E3A;
+     border: 1px solid white;
+     text-align: center;
+     width:90px;
+     height: 30px;
+     color: white;
+}
+.start{
+	height:10px;
+	width:70px;
+	background-color: white;
+	margin-left: 500px;
+	
+}

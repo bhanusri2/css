@@ -1,0 +1,17 @@
+body{
+	background-image: url('flowers.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.abc{
+	font-family: italic;
+	font-size: 60px;
+	color: white;
+}
+.circle{
+	border:2px solid green;
+	background-color: pink;
+	height:50px;
+	width: 50px;
+	border-radius:50%;
+}

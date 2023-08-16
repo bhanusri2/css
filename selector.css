@@ -1,0 +1,32 @@
+p{
+	color:black;
+	font-size:30px;
+}
+div{
+	height:50px;
+	width:1500px;
+	background-color:blue;
+}
+/**{
+	font-size:100px;
+	font-family:cursive;
+	color-green
+}*/
+a:link{
+	color:brown;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:red;
+	font-size:50px;
+}
+a:active{
+	color:purple;
+}
+div:hover{
+	height:100px;
+	width:100px;
+	background-color:red;
+}

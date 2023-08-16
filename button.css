@@ -1,0 +1,17 @@
+button{
+	background-color:royalblue;
+	color:white;
+	border-radius:20px;
+}
+a:active{
+	color:greenyellow;
+}
+a:link{
+	color:brown;
+}
+a:hover{
+	font-size:30px;
+}
+.form{
+	text-align-last: right;
+}

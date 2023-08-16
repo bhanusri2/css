@@ -1,0 +1,19 @@
+.a{
+	height:600px;
+	width:1520px;
+	background-color: #ffd700;
+}
+.b{
+	height:500px;
+	width:600px;
+	background-color:orange;
+	float:left;
+	margin:20px;
+}
+.c{
+	height:500px;
+	width:600px;
+	background-color:red;
+	float:left;
+	margin:20px;
+}
